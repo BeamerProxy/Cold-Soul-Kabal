@@ -1,0 +1,32 @@
+{
+  "name": "Cold Soul Cabal",
+  "revision": "0.0.1",
+  "game": "Beamer's Homebrew",
+  "genre": "Sci-fi",
+  "publisher": "BeamerProxy",
+  "url": "",
+  "notes": "",
+  "wip": true,
+  "rulebook": {
+    "assetTaxonomy": {},
+    "assetCatalog": {
+      "Roster§Roster": {}
+    },
+    "gameModes": {},
+    "theme": {}
+  },
+  "dependencies": [
+    {
+      "slug": "JH7J7R",
+      "name": "Drukhari",
+      "game": "Warhammer 40k",
+      "source": "https://raw.githubusercontent.com/RosterizerTestData/Warhammer40k10e/main/Drukhari.rulebook"
+    },
+    {
+      "slug": "6G3YSE",
+      "name": "Astra Militarum",
+      "game": "Warhammer 40k",
+      "source": "https://raw.githubusercontent.com/RosterizerTestData/Warhammer40k10e/main/Astra_Militarum.rulebook"
+    }
+  ]
+}
